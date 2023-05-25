@@ -1,2 +1,2 @@
-# Catedral_Baleia
-Iniciando um projeto para um futuro aplicativo para a Convenção Nacional das Assembleias de Deus Ministério de Madureira - CONAMAD
+# Whale Cathedral
+Starting a project for a future application for the National Convention of the Assemblies of God Ministry of Madureira - CONAMAD.
