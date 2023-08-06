@@ -1,4 +1,4 @@
-print('Cadastros das Igrejas do Campo da Catedral Baleia-DF (CONAMAD)!')
+print('Cadastros das Igrejas do Campo da Catedral Baleia (CONAMAD)!')
 id = int(input('Digite o ID da Igreja: '))
 regiao = input('Qual é a região da área da igreja? ')
 endereco = input('Digite o endereço e a cidade da sua igreja: ')
